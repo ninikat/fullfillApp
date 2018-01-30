@@ -15,5 +15,12 @@
 | HTML5/CSS3     | 
 | ExpressJs     |
 | Mustache-express     |
+| Express-session     |
 | SASS     | 
 | gulp     |
+
+
+## Authors
+
+* **Nydia Segura** - [ninikat](https://github.com/ninikat)
+* **Daniel Dyer** - [danielbdyer](https://github.com/danielbdyer)
